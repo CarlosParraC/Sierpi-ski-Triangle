@@ -3,7 +3,6 @@ import turtle
 # SETUP
 SetOfPoints = []
 canva = turtle
-FractalDrawer = None
 
 # define the set of points for the main triangle
 def setPoints(scale=5):
